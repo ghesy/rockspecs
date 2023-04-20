@@ -17,7 +17,7 @@ description = {
 
 dependencies = {
 	'lua >= 5.1',
-	'luabitopt-53plus',
+	'luabitop-53plus',
 }
 
 build = {
