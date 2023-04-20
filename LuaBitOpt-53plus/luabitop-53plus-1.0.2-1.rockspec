@@ -2,7 +2,7 @@ package = 'LuaBitOp-53plus'
 version = '1.0.2-1'
 
 source = {
-	url = 'git+github.com/LuaDist/luabitop.git',
+	url = 'git+https://github.com/LuaDist/luabitop.git',
 	branch = '1.0.2',
 }
 

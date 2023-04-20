@@ -2,7 +2,7 @@ package = 'amqp-client-52plus'
 version = '1.4.0-1'
 
 source = {
-	url = 'git+github.com/gsdenys/amqp-client.git',
+	url = 'git+https://github.com/gsdenys/amqp-client.git',
 	branch = 'v1.4.0-1'
 }
 
